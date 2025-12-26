@@ -14,7 +14,7 @@ This directory contains the Python-based signal processing logic and raw sensor 
 
 ---
 
-## 🛠 Setup & Usage
+## Setup & Usage
 
 To execute the visualization scripts, ensure the following Python dependencies are installed:
 
