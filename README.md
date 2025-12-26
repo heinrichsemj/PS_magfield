@@ -32,7 +32,7 @@ The centerpiece of the automated tracking method is the integrated Arduino-ultra
 
 ---
 
-## 🛠 Software Requirements & Usage
+## Software Requirements & Usage
 
 ### Python Environment
 To run the analysis scripts found in `/Arduino`, install the following dependencies:
