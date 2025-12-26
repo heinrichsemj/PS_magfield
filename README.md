@@ -5,7 +5,7 @@ This repository contains the documentation, raw datasets, and custom hardware im
 
 ## Repository Structure
 
-* **`PS_magnet.pdf`**: The final research report documenting our findings, methodologies, and results.
+* **`PS_magnet-report.pdf`**: The final research report documenting our findings, methodologies, and results.
 * **`/Arduino`**:cContains the hardware logic and assembly for the automated tracking system.
     * `Arduino_Sensors.ino`: Script for controlling ultrasonic sensors and generating synchronized timestamps.
     * Wiring diagrams and breadboard layouts for the Arduino UNO integration.
